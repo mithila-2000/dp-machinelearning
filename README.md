@@ -1,6 +1,6 @@
 # 🤖 Machine Learning App
 ```
-Find the species of a Penguin
+Find the species of Penguin
 
 Description of the app ...
 
